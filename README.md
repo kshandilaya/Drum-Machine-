@@ -1,17 +1,31 @@
-<<<<<<< HEAD
-# React + Vite
+# 🥁 Drum Machine
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive drum machine built using **React** and **Vite**. Users can play drum sounds by clicking on drum pads or using specific keyboard keys.
 
-Currently, two official plugins are available:
+Also can check the working model on this link : https://codepen.io/kshandilaya/pen/pvjvNNZ
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Demo
 
-## Expanding the ESLint configuration
+Here’s a preview of the Drum Machine interface:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Drum-Machine-
-Freecode camp frontend library &amp; framework projects.
->>>>>>> fff62157459b6db9834ca02b25d275a06d98c056
+<img src="sample-img/Screenshot2.png" alt="Drum Machine Screenshot" width="500"/>
+
+
+<img src="sample-img/Screenshot1.png" alt="Drum Machine Screenshot" width="500"/>
+
+
+## 🚀 Features
+
+- 9 clickable drum pads
+- Keyboard-triggered sound playback
+- Visual feedback when a pad is pressed
+- Responsive and clean layout
+- Built with functional React components
+
+## 🧰 Tech Stack
+
+- React
+- Vite
+- HTML5 Audio
+- CSS
+
